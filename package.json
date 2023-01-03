@@ -1,5 +1,5 @@
 {
-  "name": "@matheus-alpe/dummy-lib",
+  "name": "dummy-lib",
   "private": false,
   "version": "1.0.0",
   "type": "module",
